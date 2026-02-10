@@ -28,4 +28,5 @@ void afficherBienvenue();
 
 #endif // FONCTION_BIENVENUE_H
 ```
-Mise à jour de la fonction afficherBienvenue
+Mise à jour pour la version 1.2
+
