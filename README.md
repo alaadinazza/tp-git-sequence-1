@@ -17,3 +17,14 @@ g++ -o bienvenue bienvenue.o fonction-bienvenue.o
 $ ./bienvenue
 Bienvenue le monde !
 ```
+## Code source
+
+### fonction-bienvenue.h
+```cpp
+#ifndef FONCTION_BIENVENUE_H
+#define FONCTION_BIENVENUE_H
+
+void afficherBienvenue();
+
+#endif // FONCTION_BIENVENUE_H
+```
