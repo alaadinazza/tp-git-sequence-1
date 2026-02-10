@@ -28,3 +28,5 @@ void afficherBienvenue();
 
 #endif // FONCTION_BIENVENUE_H
 ```
+Mise à jour pour la version 1.2
+
