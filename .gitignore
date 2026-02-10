@@ -1,0 +1,12 @@
+```
+**Contenu à copier dans nano :**
+```
+# Fichiers exécutables
+bienvenue
+
+# Fichiers objets
+*.o
+
+# Fichiers temporaires
+*~
+*.swp
