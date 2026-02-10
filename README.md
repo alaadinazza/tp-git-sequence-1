@@ -28,3 +28,4 @@ void afficherBienvenue();
 
 #endif // FONCTION_BIENVENUE_H
 ```
+Mise à jour de la fonction afficherBienvenue
